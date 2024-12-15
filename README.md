@@ -28,7 +28,7 @@ This Python-based tool uses **machine learning**, **real-time log monitoring**, 
    ```
 3. Run the tool:
    ```bash
-   python log_analysis_tool.py
+   python Log Analysis.py
    ```
 4. Enter the path to your log file when prompted.
 5. The tool will begin processing logs and detect anomalies in real-time. If an anomaly is detected, you will receive an email alert.
