@@ -19,8 +19,8 @@ This Python-based tool uses **machine learning**, **real-time log monitoring**, 
 ### **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/log-analysis-tool.git
-   cd log-analysis-tool
+   git clone https://github.com/andreaskon51/Log-Analysis-Python.git
+   cd Log-Analysis-Python
    ```
 2. Install required dependencies:
    ```bash
